@@ -44,7 +44,7 @@ export default defineConfig({
     jsxInject: 'import { create } from "../settings/create.js"',
     },
   
-  base: '/WalterHouse'
+  base: '/WalterHouse/'
 });
 
 
